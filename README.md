@@ -39,7 +39,7 @@ I'm [Syed Rakesh Uddin]
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=syedrakesh&theme=merko">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrakesh&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedrakesh&layout=compact&langs_count=10&card_width=500&bg_color=151515">
 
 <img src="https://github-profile-trophy.vercel.app/?username=syedrakesh&row=1)](https://github.com/syedrakesh/github-profile-trophy">
 
